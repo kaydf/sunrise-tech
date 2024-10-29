@@ -1,0 +1,2757 @@
+[
+    {
+        "Income": "33000",
+        "Investment": "0",
+        "Allowances": "4950"
+    },
+    {
+        "Income": "34000",
+        "Investment": "130",
+        "Allowances": "5080"
+    },
+    {
+        "Income": "35000",
+        "Investment": "260",
+        "Allowances": "5210"
+    },
+    {
+        "Income": "36000",
+        "Investment": "390",
+        "Allowances": "5340"
+    },
+    {
+        "Income": "37000",
+        "Investment": "520",
+        "Allowances": "5470"
+    },
+    {
+        "Income": "38000",
+        "Investment": "650",
+        "Allowances": "5600"
+    },
+    {
+        "Income": "39000",
+        "Investment": "780",
+        "Allowances": "5730"
+    },
+    {
+        "Income": "40000",
+        "Investment": "910",
+        "Allowances": "5860"
+    },
+    {
+        "Income": "41000",
+        "Investment": "1040",
+        "Allowances": "5990"
+    },
+    {
+        "Income": "42000",
+        "Investment": "1170",
+        "Allowances": "6120"
+    },
+    {
+        "Income": "43000",
+        "Investment": "1300",
+        "Allowances": "6250"
+    },
+    {
+        "Income": "44000",
+        "Investment": "1430",
+        "Allowances": "6380"
+    },
+    {
+        "Income": "45000",
+        "Investment": "1560",
+        "Allowances": "6510"
+    },
+    {
+        "Income": "46000",
+        "Investment": "1690",
+        "Allowances": "6640"
+    },
+    {
+        "Income": "47000",
+        "Investment": "1820",
+        "Allowances": "6770"
+    },
+    {
+        "Income": "48000",
+        "Investment": "1950",
+        "Allowances": "6900"
+    },
+    {
+        "Income": "49000",
+        "Investment": "2080",
+        "Allowances": "7030"
+    },
+    {
+        "Income": "50000",
+        "Investment": "2210",
+        "Allowances": "7160"
+    },
+    {
+        "Income": "51000",
+        "Investment": "2340",
+        "Allowances": "7290"
+    },
+    {
+        "Income": "52000",
+        "Investment": "2470",
+        "Allowances": "7420"
+    },
+    {
+        "Income": "53000",
+        "Investment": "2600",
+        "Allowances": "7550"
+    },
+    {
+        "Income": "54000",
+        "Investment": "2730",
+        "Allowances": "7680"
+    },
+    {
+        "Income": "55000",
+        "Investment": "2860",
+        "Allowances": "7810"
+    },
+    {
+        "Income": "56000",
+        "Investment": "2990",
+        "Allowances": "7940"
+    },
+    {
+        "Income": "57000",
+        "Investment": "3120",
+        "Allowances": "8070"
+    },
+    {
+        "Income": "58000",
+        "Investment": "3250",
+        "Allowances": "8200"
+    },
+    {
+        "Income": "59000",
+        "Investment": "3380",
+        "Allowances": "8330"
+    },
+    {
+        "Income": "60000",
+        "Investment": "3510",
+        "Allowances": "8460"
+    },
+    {
+        "Income": "61000",
+        "Investment": "3640",
+        "Allowances": "8590"
+    },
+    {
+        "Income": "62000",
+        "Investment": "3770",
+        "Allowances": "8720"
+    },
+    {
+        "Income": "63000",
+        "Investment": "3900",
+        "Allowances": "8850"
+    },
+    {
+        "Income": "64000",
+        "Investment": "4030",
+        "Allowances": "8980"
+    },
+    {
+        "Income": "65000",
+        "Investment": "4160",
+        "Allowances": "9110"
+    },
+    {
+        "Income": "66000",
+        "Investment": "4290",
+        "Allowances": "9240"
+    },
+    {
+        "Income": "67000",
+        "Investment": "4420",
+        "Allowances": "9370"
+    },
+    {
+        "Income": "68000",
+        "Investment": "4550",
+        "Allowances": "9500"
+    },
+    {
+        "Income": "69000",
+        "Investment": "4680",
+        "Allowances": "9630"
+    },
+    {
+        "Income": "70000",
+        "Investment": "4810",
+        "Allowances": "9760"
+    },
+    {
+        "Income": "71000",
+        "Investment": "4940",
+        "Allowances": "9890"
+    },
+    {
+        "Income": "72000",
+        "Investment": "5070",
+        "Allowances": "10020"
+    },
+    {
+        "Income": "73000",
+        "Investment": "5200",
+        "Allowances": "10150"
+    },
+    {
+        "Income": "74000",
+        "Investment": "5330",
+        "Allowances": "10280"
+    },
+    {
+        "Income": "75000",
+        "Investment": "5460",
+        "Allowances": "10410"
+    },
+    {
+        "Income": "76000",
+        "Investment": "5590",
+        "Allowances": "10540"
+    },
+    {
+        "Income": "77000",
+        "Investment": "5720",
+        "Allowances": "10670"
+    },
+    {
+        "Income": "78000",
+        "Investment": "5850",
+        "Allowances": "10800"
+    },
+    {
+        "Income": "79000",
+        "Investment": "5980",
+        "Allowances": "10930"
+    },
+    {
+        "Income": "80000",
+        "Investment": "6110",
+        "Allowances": "11060"
+    },
+    {
+        "Income": "81000",
+        "Investment": "6240",
+        "Allowances": "11190"
+    },
+    {
+        "Income": "82000",
+        "Investment": "6370",
+        "Allowances": "11320"
+    },
+    {
+        "Income": "83000",
+        "Investment": "6500",
+        "Allowances": "11450"
+    },
+    {
+        "Income": "84000",
+        "Investment": "6630",
+        "Allowances": "11580"
+    },
+    {
+        "Income": "85000",
+        "Investment": "6760",
+        "Allowances": "11710"
+    },
+    {
+        "Income": "86000",
+        "Investment": "6890",
+        "Allowances": "11840"
+    },
+    {
+        "Income": "87000",
+        "Investment": "7020",
+        "Allowances": "11970"
+    },
+    {
+        "Income": "88000",
+        "Investment": "7150",
+        "Allowances": "12100"
+    },
+    {
+        "Income": "89000",
+        "Investment": "7280",
+        "Allowances": "12230"
+    },
+    {
+        "Income": "90000",
+        "Investment": "7410",
+        "Allowances": "12360"
+    },
+    {
+        "Income": "91000",
+        "Investment": "7540",
+        "Allowances": "12490"
+    },
+    {
+        "Income": "92000",
+        "Investment": "7670",
+        "Allowances": "12620"
+    },
+    {
+        "Income": "93000",
+        "Investment": "7800",
+        "Allowances": "12750"
+    },
+    {
+        "Income": "94000",
+        "Investment": "7930",
+        "Allowances": "12880"
+    },
+    {
+        "Income": "95000",
+        "Investment": "8060",
+        "Allowances": "13010"
+    },
+    {
+        "Income": "96000",
+        "Investment": "8190",
+        "Allowances": "13140"
+    },
+    {
+        "Income": "97000",
+        "Investment": "8320",
+        "Allowances": "13270"
+    },
+    {
+        "Income": "98000",
+        "Investment": "8450",
+        "Allowances": "13400"
+    },
+    {
+        "Income": "99000",
+        "Investment": "8580",
+        "Allowances": "13530"
+    },
+    {
+        "Income": "100000",
+        "Investment": "8710",
+        "Allowances": "13660"
+    },
+    {
+        "Income": "101000",
+        "Investment": "8840",
+        "Allowances": "13790"
+    },
+    {
+        "Income": "102000",
+        "Investment": "8970",
+        "Allowances": "13920"
+    },
+    {
+        "Income": "103000",
+        "Investment": "9100",
+        "Allowances": "14050"
+    },
+    {
+        "Income": "104000",
+        "Investment": "9230",
+        "Allowances": "14180"
+    },
+    {
+        "Income": "105000",
+        "Investment": "9360",
+        "Allowances": "14310"
+    },
+    {
+        "Income": "106000",
+        "Investment": "9490",
+        "Allowances": "14440"
+    },
+    {
+        "Income": "107000",
+        "Investment": "9620",
+        "Allowances": "14570"
+    },
+    {
+        "Income": "108000",
+        "Investment": "9750",
+        "Allowances": "14700"
+    },
+    {
+        "Income": "109000",
+        "Investment": "9880",
+        "Allowances": "14830"
+    },
+    {
+        "Income": "110000",
+        "Investment": "10010",
+        "Allowances": "14960"
+    },
+    {
+        "Income": "111000",
+        "Investment": "10140",
+        "Allowances": "15090"
+    },
+    {
+        "Income": "112000",
+        "Investment": "10270",
+        "Allowances": "15220"
+    },
+    {
+        "Income": "113000",
+        "Investment": "10400",
+        "Allowances": "15350"
+    },
+    {
+        "Income": "114000",
+        "Investment": "10530",
+        "Allowances": "15480"
+    },
+    {
+        "Income": "115000",
+        "Investment": "10660",
+        "Allowances": "15610"
+    },
+    {
+        "Income": "116000",
+        "Investment": "10790",
+        "Allowances": "15740"
+    },
+    {
+        "Income": "117000",
+        "Investment": "10920",
+        "Allowances": "15870"
+    },
+    {
+        "Income": "118000",
+        "Investment": "11050",
+        "Allowances": "16000"
+    },
+    {
+        "Income": "119000",
+        "Investment": "11180",
+        "Allowances": "16130"
+    },
+    {
+        "Income": "120000",
+        "Investment": "11310",
+        "Allowances": "16260"
+    },
+    {
+        "Income": "121000",
+        "Investment": "11440",
+        "Allowances": "16390"
+    },
+    {
+        "Income": "122000",
+        "Investment": "11570",
+        "Allowances": "16520"
+    },
+    {
+        "Income": "123000",
+        "Investment": "11700",
+        "Allowances": "16650"
+    },
+    {
+        "Income": "124000",
+        "Investment": "11830",
+        "Allowances": "16780"
+    },
+    {
+        "Income": "125000",
+        "Investment": "11960",
+        "Allowances": "16910"
+    },
+    {
+        "Income": "126000",
+        "Investment": "12090",
+        "Allowances": "17040"
+    },
+    {
+        "Income": "127000",
+        "Investment": "12220",
+        "Allowances": "17170"
+    },
+    {
+        "Income": "128000",
+        "Investment": "12350",
+        "Allowances": "17300"
+    },
+    {
+        "Income": "129000",
+        "Investment": "12480",
+        "Allowances": "17430"
+    },
+    {
+        "Income": "130000",
+        "Investment": "12610",
+        "Allowances": "17560"
+    },
+    {
+        "Income": "131000",
+        "Investment": "12740",
+        "Allowances": "17690"
+    },
+    {
+        "Income": "132000",
+        "Investment": "12870",
+        "Allowances": "17820"
+    },
+    {
+        "Income": "133000",
+        "Investment": "13000",
+        "Allowances": "17950"
+    },
+    {
+        "Income": "134000",
+        "Investment": "13130",
+        "Allowances": "18080"
+    },
+    {
+        "Income": "135000",
+        "Investment": "13260",
+        "Allowances": "18210"
+    },
+    {
+        "Income": "136000",
+        "Investment": "13390",
+        "Allowances": "18340"
+    },
+    {
+        "Income": "137000",
+        "Investment": "13520",
+        "Allowances": "18470"
+    },
+    {
+        "Income": "138000",
+        "Investment": "13650",
+        "Allowances": "18600"
+    },
+    {
+        "Income": "139000",
+        "Investment": "13780",
+        "Allowances": "18730"
+    },
+    {
+        "Income": "140000",
+        "Investment": "13910",
+        "Allowances": "18860"
+    },
+    {
+        "Income": "141000",
+        "Investment": "14040",
+        "Allowances": "18990"
+    },
+    {
+        "Income": "142000",
+        "Investment": "14170",
+        "Allowances": "19120"
+    },
+    {
+        "Income": "143000",
+        "Investment": "14300",
+        "Allowances": "19250"
+    },
+    {
+        "Income": "144000",
+        "Investment": "14430",
+        "Allowances": "19380"
+    },
+    {
+        "Income": "145000",
+        "Investment": "14560",
+        "Allowances": "19510"
+    },
+    {
+        "Income": "146000",
+        "Investment": "14690",
+        "Allowances": "19640"
+    },
+    {
+        "Income": "147000",
+        "Investment": "14820",
+        "Allowances": "19770"
+    },
+    {
+        "Income": "148000",
+        "Investment": "14950",
+        "Allowances": "19900"
+    },
+    {
+        "Income": "149000",
+        "Investment": "15080",
+        "Allowances": "20030"
+    },
+    {
+        "Income": "150000",
+        "Investment": "15210",
+        "Allowances": "20160"
+    },
+    {
+        "Income": "151000",
+        "Investment": "15340",
+        "Allowances": "20290"
+    },
+    {
+        "Income": "152000",
+        "Investment": "15470",
+        "Allowances": "20420"
+    },
+    {
+        "Income": "153000",
+        "Investment": "15600",
+        "Allowances": "20550"
+    },
+    {
+        "Income": "154000",
+        "Investment": "15730",
+        "Allowances": "20680"
+    },
+    {
+        "Income": "155000",
+        "Investment": "15860",
+        "Allowances": "20810"
+    },
+    {
+        "Income": "156000",
+        "Investment": "15990",
+        "Allowances": "20940"
+    },
+    {
+        "Income": "157000",
+        "Investment": "16120",
+        "Allowances": "21070"
+    },
+    {
+        "Income": "158000",
+        "Investment": "16250",
+        "Allowances": "21200"
+    },
+    {
+        "Income": "159000",
+        "Investment": "16380",
+        "Allowances": "21330"
+    },
+    {
+        "Income": "160000",
+        "Investment": "16510",
+        "Allowances": "21460"
+    },
+    {
+        "Income": "161000",
+        "Investment": "16640",
+        "Allowances": "21590"
+    },
+    {
+        "Income": "162000",
+        "Investment": "16770",
+        "Allowances": "21720"
+    },
+    {
+        "Income": "163000",
+        "Investment": "16900",
+        "Allowances": "21850"
+    },
+    {
+        "Income": "164000",
+        "Investment": "17030",
+        "Allowances": "21980"
+    },
+    {
+        "Income": "165000",
+        "Investment": "17160",
+        "Allowances": "22110"
+    },
+    {
+        "Income": "166000",
+        "Investment": "17290",
+        "Allowances": "22240"
+    },
+    {
+        "Income": "167000",
+        "Investment": "17420",
+        "Allowances": "22370"
+    },
+    {
+        "Income": "168000",
+        "Investment": "17550",
+        "Allowances": "22500"
+    },
+    {
+        "Income": "169000",
+        "Investment": "17680",
+        "Allowances": "22630"
+    },
+    {
+        "Income": "170000",
+        "Investment": "17810",
+        "Allowances": "22760"
+    },
+    {
+        "Income": "171000",
+        "Investment": "17940",
+        "Allowances": "22890"
+    },
+    {
+        "Income": "172000",
+        "Investment": "18070",
+        "Allowances": "23020"
+    },
+    {
+        "Income": "173000",
+        "Investment": "18200",
+        "Allowances": "23150"
+    },
+    {
+        "Income": "174000",
+        "Investment": "18330",
+        "Allowances": "23280"
+    },
+    {
+        "Income": "175000",
+        "Investment": "18460",
+        "Allowances": "23410"
+    },
+    {
+        "Income": "176000",
+        "Investment": "18590",
+        "Allowances": "23540"
+    },
+    {
+        "Income": "177000",
+        "Investment": "18720",
+        "Allowances": "23670"
+    },
+    {
+        "Income": "178000",
+        "Investment": "18850",
+        "Allowances": "23800"
+    },
+    {
+        "Income": "179000",
+        "Investment": "18920",
+        "Allowances": "23870"
+    },
+    {
+        "Income": "180000",
+        "Investment": "18990",
+        "Allowances": "23940"
+    },
+    {
+        "Income": "181000",
+        "Investment": "19060",
+        "Allowances": "24010"
+    },
+    {
+        "Income": "182000",
+        "Investment": "19130",
+        "Allowances": "24080"
+    },
+    {
+        "Income": "183000",
+        "Investment": "19200",
+        "Allowances": "24150"
+    },
+    {
+        "Income": "184000",
+        "Investment": "19270",
+        "Allowances": "24220"
+    },
+    {
+        "Income": "185000",
+        "Investment": "19340",
+        "Allowances": "24290"
+    },
+    {
+        "Income": "186000",
+        "Investment": "19410",
+        "Allowances": "24360"
+    },
+    {
+        "Income": "187000",
+        "Investment": "19480",
+        "Allowances": "24430"
+    },
+    {
+        "Income": "188000",
+        "Investment": "19550",
+        "Allowances": "24500"
+    },
+    {
+        "Income": "189000",
+        "Investment": "19620",
+        "Allowances": "24570"
+    },
+    {
+        "Income": "190000",
+        "Investment": "19690",
+        "Allowances": "24640"
+    },
+    {
+        "Income": "191000",
+        "Investment": "19760",
+        "Allowances": "24710"
+    },
+    {
+        "Income": "192000",
+        "Investment": "19830",
+        "Allowances": "24780"
+    },
+    {
+        "Income": "193000",
+        "Investment": "19900",
+        "Allowances": "24850"
+    },
+    {
+        "Income": "194000",
+        "Investment": "19970",
+        "Allowances": "24920"
+    },
+    {
+        "Income": "195000",
+        "Investment": "20040",
+        "Allowances": "24990"
+    },
+    {
+        "Income": "196000",
+        "Investment": "20110",
+        "Allowances": "25060"
+    },
+    {
+        "Income": "197000",
+        "Investment": "20180",
+        "Allowances": "25130"
+    },
+    {
+        "Income": "198000",
+        "Investment": "20250",
+        "Allowances": "25200"
+    },
+    {
+        "Income": "199000",
+        "Investment": "20320",
+        "Allowances": "25270"
+    },
+    {
+        "Income": "200000",
+        "Investment": "20390",
+        "Allowances": "25340"
+    },
+    {
+        "Income": "201000",
+        "Investment": "20460",
+        "Allowances": "25410"
+    },
+    {
+        "Income": "202000",
+        "Investment": "20530",
+        "Allowances": "25480"
+    },
+    {
+        "Income": "203000",
+        "Investment": "20600",
+        "Allowances": "25550"
+    },
+    {
+        "Income": "204000",
+        "Investment": "20670",
+        "Allowances": "25620"
+    },
+    {
+        "Income": "205000",
+        "Investment": "20740",
+        "Allowances": "25690"
+    },
+    {
+        "Income": "206000",
+        "Investment": "20810",
+        "Allowances": "25760"
+    },
+    {
+        "Income": "207000",
+        "Investment": "20880",
+        "Allowances": "25830"
+    },
+    {
+        "Income": "208000",
+        "Investment": "20950",
+        "Allowances": "25900"
+    },
+    {
+        "Income": "209000",
+        "Investment": "21020",
+        "Allowances": "25970"
+    },
+    {
+        "Income": "210000",
+        "Investment": "21090",
+        "Allowances": "26040"
+    },
+    {
+        "Income": "211000",
+        "Investment": "21160",
+        "Allowances": "26110"
+    },
+    {
+        "Income": "212000",
+        "Investment": "21230",
+        "Allowances": "26180"
+    },
+    {
+        "Income": "213000",
+        "Investment": "21300",
+        "Allowances": "26250"
+    },
+    {
+        "Income": "214000",
+        "Investment": "21370",
+        "Allowances": "26320"
+    },
+    {
+        "Income": "215000",
+        "Investment": "21440",
+        "Allowances": "26390"
+    },
+    {
+        "Income": "216000",
+        "Investment": "21510",
+        "Allowances": "26460"
+    },
+    {
+        "Income": "217000",
+        "Investment": "21580",
+        "Allowances": "26530"
+    },
+    {
+        "Income": "218000",
+        "Investment": "21650",
+        "Allowances": "26600"
+    },
+    {
+        "Income": "219000",
+        "Investment": "21720",
+        "Allowances": "26670"
+    },
+    {
+        "Income": "220000",
+        "Investment": "21790",
+        "Allowances": "26740"
+    },
+    {
+        "Income": "221000",
+        "Investment": "21860",
+        "Allowances": "26810"
+    },
+    {
+        "Income": "222000",
+        "Investment": "21930",
+        "Allowances": "26880"
+    },
+    {
+        "Income": "223000",
+        "Investment": "22000",
+        "Allowances": "26950"
+    },
+    {
+        "Income": "224000",
+        "Investment": "22070",
+        "Allowances": "27020"
+    },
+    {
+        "Income": "225000",
+        "Investment": "22140",
+        "Allowances": "27090"
+    },
+    {
+        "Income": "226000",
+        "Investment": "22210",
+        "Allowances": "27160"
+    },
+    {
+        "Income": "227000",
+        "Investment": "22280",
+        "Allowances": "27230"
+    },
+    {
+        "Income": "228000",
+        "Investment": "22350",
+        "Allowances": "27300"
+    },
+    {
+        "Income": "229000",
+        "Investment": "22420",
+        "Allowances": "27370"
+    },
+    {
+        "Income": "230000",
+        "Investment": "22490",
+        "Allowances": "27440"
+    },
+    {
+        "Income": "231000",
+        "Investment": "22560",
+        "Allowances": "27510"
+    },
+    {
+        "Income": "232000",
+        "Investment": "22630",
+        "Allowances": "27580"
+    },
+    {
+        "Income": "233000",
+        "Investment": "22700",
+        "Allowances": "27650"
+    },
+    {
+        "Income": "234000",
+        "Investment": "22770",
+        "Allowances": "27720"
+    },
+    {
+        "Income": "235000",
+        "Investment": "22840",
+        "Allowances": "27790"
+    },
+    {
+        "Income": "236000",
+        "Investment": "22910",
+        "Allowances": "27860"
+    },
+    {
+        "Income": "237000",
+        "Investment": "22980",
+        "Allowances": "27930"
+    },
+    {
+        "Income": "238000",
+        "Investment": "23050",
+        "Allowances": "28000"
+    },
+    {
+        "Income": "239000",
+        "Investment": "23120",
+        "Allowances": "28070"
+    },
+    {
+        "Income": "240000",
+        "Investment": "23190",
+        "Allowances": "28140"
+    },
+    {
+        "Income": "241000",
+        "Investment": "23260",
+        "Allowances": "28210"
+    },
+    {
+        "Income": "242000",
+        "Investment": "23330",
+        "Allowances": "28280"
+    },
+    {
+        "Income": "243000",
+        "Investment": "23400",
+        "Allowances": "28350"
+    },
+    {
+        "Income": "244000",
+        "Investment": "23470",
+        "Allowances": "28420"
+    },
+    {
+        "Income": "245000",
+        "Investment": "23540",
+        "Allowances": "28490"
+    },
+    {
+        "Income": "246000",
+        "Investment": "23610",
+        "Allowances": "28560"
+    },
+    {
+        "Income": "247000",
+        "Investment": "23680",
+        "Allowances": "28630"
+    },
+    {
+        "Income": "248000",
+        "Investment": "23750",
+        "Allowances": "28700"
+    },
+    {
+        "Income": "249000",
+        "Investment": "23820",
+        "Allowances": "28770"
+    },
+    {
+        "Income": "250000",
+        "Investment": "23890",
+        "Allowances": "28840"
+    },
+    {
+        "Income": "251000",
+        "Investment": "23960",
+        "Allowances": "28910"
+    },
+    {
+        "Income": "252000",
+        "Investment": "24030",
+        "Allowances": "28980"
+    },
+    {
+        "Income": "253000",
+        "Investment": "24100",
+        "Allowances": "29050"
+    },
+    {
+        "Income": "254000",
+        "Investment": "24170",
+        "Allowances": "29120"
+    },
+    {
+        "Income": "255000",
+        "Investment": "24240",
+        "Allowances": "29190"
+    },
+    {
+        "Income": "256000",
+        "Investment": "24310",
+        "Allowances": "29260"
+    },
+    {
+        "Income": "257000",
+        "Investment": "24380",
+        "Allowances": "29330"
+    },
+    {
+        "Income": "258000",
+        "Investment": "24450",
+        "Allowances": "29400"
+    },
+    {
+        "Income": "259000",
+        "Investment": "24520",
+        "Allowances": "29470"
+    },
+    {
+        "Income": "260000",
+        "Investment": "24590",
+        "Allowances": "29540"
+    },
+    {
+        "Income": "261000",
+        "Investment": "24660",
+        "Allowances": "29610"
+    },
+    {
+        "Income": "262000",
+        "Investment": "24730",
+        "Allowances": "29680"
+    },
+    {
+        "Income": "263000",
+        "Investment": "24800",
+        "Allowances": "29750"
+    },
+    {
+        "Income": "264000",
+        "Investment": "24870",
+        "Allowances": "29820"
+    },
+    {
+        "Income": "265000",
+        "Investment": "24940",
+        "Allowances": "29890"
+    },
+    {
+        "Income": "266000",
+        "Investment": "25010",
+        "Allowances": "29960"
+    },
+    {
+        "Income": "267000",
+        "Investment": "25080",
+        "Allowances": "30030"
+    },
+    {
+        "Income": "268000",
+        "Investment": "25150",
+        "Allowances": "30100"
+    },
+    {
+        "Income": "269000",
+        "Investment": "25220",
+        "Allowances": "30170"
+    },
+    {
+        "Income": "270000",
+        "Investment": "25290",
+        "Allowances": "30240"
+    },
+    {
+        "Income": "271000",
+        "Investment": "25360",
+        "Allowances": "30310"
+    },
+    {
+        "Income": "272000",
+        "Investment": "25430",
+        "Allowances": "30380"
+    },
+    {
+        "Income": "273000",
+        "Investment": "25500",
+        "Allowances": "30450"
+    },
+    {
+        "Income": "274000",
+        "Investment": "25570",
+        "Allowances": "30520"
+    },
+    {
+        "Income": "275000",
+        "Investment": "25640",
+        "Allowances": "30590"
+    },
+    {
+        "Income": "276000",
+        "Investment": "25710",
+        "Allowances": "30660"
+    },
+    {
+        "Income": "277000",
+        "Investment": "25780",
+        "Allowances": "30730"
+    },
+    {
+        "Income": "278000",
+        "Investment": "25850",
+        "Allowances": "30800"
+    },
+    {
+        "Income": "279000",
+        "Investment": "25920",
+        "Allowances": "30870"
+    },
+    {
+        "Income": "280000",
+        "Investment": "25990",
+        "Allowances": "30940"
+    },
+    {
+        "Income": "281000",
+        "Investment": "26060",
+        "Allowances": "31010"
+    },
+    {
+        "Income": "283000",
+        "Investment": "26200",
+        "Allowances": "31150"
+    },
+    {
+        "Income": "284000",
+        "Investment": "26270",
+        "Allowances": "31220"
+    },
+    {
+        "Income": "285000",
+        "Investment": "26340",
+        "Allowances": "31290"
+    },
+    {
+        "Income": "286000",
+        "Investment": "26410",
+        "Allowances": "31360"
+    },
+    {
+        "Income": "287000",
+        "Investment": "26480",
+        "Allowances": "31430"
+    },
+    {
+        "Income": "288000",
+        "Investment": "26550",
+        "Allowances": "31500"
+    },
+    {
+        "Income": "289000",
+        "Investment": "26620",
+        "Allowances": "31570"
+    },
+    {
+        "Income": "290000",
+        "Investment": "26690",
+        "Allowances": "31640"
+    },
+    {
+        "Income": "291000",
+        "Investment": "26760",
+        "Allowances": "31710"
+    },
+    {
+        "Income": "292000",
+        "Investment": "26830",
+        "Allowances": "31780"
+    },
+    {
+        "Income": "293000",
+        "Investment": "26900",
+        "Allowances": "31850"
+    },
+    {
+        "Income": "294000",
+        "Investment": "26970",
+        "Allowances": "31920"
+    },
+    {
+        "Income": "295000",
+        "Investment": "27040",
+        "Allowances": "31990"
+    },
+    {
+        "Income": "296000",
+        "Investment": "27110",
+        "Allowances": "32060"
+    },
+    {
+        "Income": "297000",
+        "Investment": "27180",
+        "Allowances": "32130"
+    },
+    {
+        "Income": "298000",
+        "Investment": "27250",
+        "Allowances": "32200"
+    },
+    {
+        "Income": "299000",
+        "Investment": "27320",
+        "Allowances": "32270"
+    },
+    {
+        "Income": "300000",
+        "Investment": "27390",
+        "Allowances": "32340"
+    },
+    {
+        "Income": "301000",
+        "Investment": "27460",
+        "Allowances": "32410"
+    },
+    {
+        "Income": "302000",
+        "Investment": "27530",
+        "Allowances": "32480"
+    },
+    {
+        "Income": "303000",
+        "Investment": "27600",
+        "Allowances": "32550"
+    },
+    {
+        "Income": "304000",
+        "Investment": "27670",
+        "Allowances": "32620"
+    },
+    {
+        "Income": "305000",
+        "Investment": "27740",
+        "Allowances": "32690"
+    },
+    {
+        "Income": "306000",
+        "Investment": "27810",
+        "Allowances": "32760"
+    },
+    {
+        "Income": "307000",
+        "Investment": "27880",
+        "Allowances": "32830"
+    },
+    {
+        "Income": "308000",
+        "Investment": "27950",
+        "Allowances": "32900"
+    },
+    {
+        "Income": "309000",
+        "Investment": "28020",
+        "Allowances": "32970"
+    },
+    {
+        "Income": "310000",
+        "Investment": "28090",
+        "Allowances": "33040"
+    },
+    {
+        "Income": "311000",
+        "Investment": "28160",
+        "Allowances": "33110"
+    },
+    {
+        "Income": "312000",
+        "Investment": "28230",
+        "Allowances": "33180"
+    },
+    {
+        "Income": "313000",
+        "Investment": "28300",
+        "Allowances": "33250"
+    },
+    {
+        "Income": "314000",
+        "Investment": "28370",
+        "Allowances": "33320"
+    },
+    {
+        "Income": "315000",
+        "Investment": "28440",
+        "Allowances": "33390"
+    },
+    {
+        "Income": "316000",
+        "Investment": "28510",
+        "Allowances": "33460"
+    },
+    {
+        "Income": "317000",
+        "Investment": "28580",
+        "Allowances": "33530"
+    },
+    {
+        "Income": "318000",
+        "Investment": "28650",
+        "Allowances": "33600"
+    },
+    {
+        "Income": "319000",
+        "Investment": "28720",
+        "Allowances": "33670"
+    },
+    {
+        "Income": "320000",
+        "Investment": "28790",
+        "Allowances": "33740"
+    },
+    {
+        "Income": "321000",
+        "Investment": "28860",
+        "Allowances": "33810"
+    },
+    {
+        "Income": "322000",
+        "Investment": "28930",
+        "Allowances": "33880"
+    },
+    {
+        "Income": "323000",
+        "Investment": "29000",
+        "Allowances": "33950"
+    },
+    {
+        "Income": "324000",
+        "Investment": "29070",
+        "Allowances": "34020"
+    },
+    {
+        "Income": "325000",
+        "Investment": "29140",
+        "Allowances": "34090"
+    },
+    {
+        "Income": "326000",
+        "Investment": "29210",
+        "Allowances": "34160"
+    },
+    {
+        "Income": "327000",
+        "Investment": "29280",
+        "Allowances": "34230"
+    },
+    {
+        "Income": "328000",
+        "Investment": "29350",
+        "Allowances": "34300"
+    },
+    {
+        "Income": "329000",
+        "Investment": "29420",
+        "Allowances": "34370"
+    },
+    {
+        "Income": "330000",
+        "Investment": "29490",
+        "Allowances": "34440"
+    },
+    {
+        "Income": "331000",
+        "Investment": "29560",
+        "Allowances": "34510"
+    },
+    {
+        "Income": "332000",
+        "Investment": "29630",
+        "Allowances": "34580"
+    },
+    {
+        "Income": "333000",
+        "Investment": "29700",
+        "Allowances": "34650"
+    },
+    {
+        "Income": "334000",
+        "Investment": "29770",
+        "Allowances": "34720"
+    },
+    {
+        "Income": "335000",
+        "Investment": "29840",
+        "Allowances": "34790"
+    },
+    {
+        "Income": "336000",
+        "Investment": "29910",
+        "Allowances": "34860"
+    },
+    {
+        "Income": "337000",
+        "Investment": "29980",
+        "Allowances": "34930"
+    },
+    {
+        "Income": "338000",
+        "Investment": "30050",
+        "Allowances": "35000"
+    },
+    {
+        "Income": "339000",
+        "Investment": "30120",
+        "Allowances": "35070"
+    },
+    {
+        "Income": "340000",
+        "Investment": "30190",
+        "Allowances": "35140"
+    },
+    {
+        "Income": "341000",
+        "Investment": "30260",
+        "Allowances": "35210"
+    },
+    {
+        "Income": "342000",
+        "Investment": "30330",
+        "Allowances": "35280"
+    },
+    {
+        "Income": "343000",
+        "Investment": "30400",
+        "Allowances": "35350"
+    },
+    {
+        "Income": "344000",
+        "Investment": "30470",
+        "Allowances": "35420"
+    },
+    {
+        "Income": "345000",
+        "Investment": "30540",
+        "Allowances": "35490"
+    },
+    {
+        "Income": "346000",
+        "Investment": "30610",
+        "Allowances": "35560"
+    },
+    {
+        "Income": "347000",
+        "Investment": "30680",
+        "Allowances": "35630"
+    },
+    {
+        "Income": "348000",
+        "Investment": "30750",
+        "Allowances": "35700"
+    },
+    {
+        "Income": "349000",
+        "Investment": "30820",
+        "Allowances": "35770"
+    },
+    {
+        "Income": "350000",
+        "Investment": "30890",
+        "Allowances": "35840"
+    },
+    {
+        "Income": "351000",
+        "Investment": "30960",
+        "Allowances": "35910"
+    },
+    {
+        "Income": "352000",
+        "Investment": "31030",
+        "Allowances": "35980"
+    },
+    {
+        "Income": "353000",
+        "Investment": "31100",
+        "Allowances": "36050"
+    },
+    {
+        "Income": "354000",
+        "Investment": "31145",
+        "Allowances": "36095"
+    },
+    {
+        "Income": "355000",
+        "Investment": "31190",
+        "Allowances": "36140"
+    },
+    {
+        "Income": "356000",
+        "Investment": "31235",
+        "Allowances": "36185"
+    },
+    {
+        "Income": "357000",
+        "Investment": "31280",
+        "Allowances": "36230"
+    },
+    {
+        "Income": "358000",
+        "Investment": "31325",
+        "Allowances": "36275"
+    },
+    {
+        "Income": "359000",
+        "Investment": "31370",
+        "Allowances": "36320"
+    },
+    {
+        "Income": "360000",
+        "Investment": "31415",
+        "Allowances": "36365"
+    },
+    {
+        "Income": "361000",
+        "Investment": "31460",
+        "Allowances": "36410"
+    },
+    {
+        "Income": "362000",
+        "Investment": "31505",
+        "Allowances": "36455"
+    },
+    {
+        "Income": "363000",
+        "Investment": "31550",
+        "Allowances": "36500"
+    },
+    {
+        "Income": "364000",
+        "Investment": "31595",
+        "Allowances": "36545"
+    },
+    {
+        "Income": "365000",
+        "Investment": "31640",
+        "Allowances": "36590"
+    },
+    {
+        "Income": "366000",
+        "Investment": "31685",
+        "Allowances": "36635"
+    },
+    {
+        "Income": "367000",
+        "Investment": "31730",
+        "Allowances": "36680"
+    },
+    {
+        "Income": "368000",
+        "Investment": "31775",
+        "Allowances": "36725"
+    },
+    {
+        "Income": "369000",
+        "Investment": "31820",
+        "Allowances": "36770"
+    },
+    {
+        "Income": "370000",
+        "Investment": "31865",
+        "Allowances": "36815"
+    },
+    {
+        "Income": "371000",
+        "Investment": "31910",
+        "Allowances": "36860"
+    },
+    {
+        "Income": "372000",
+        "Investment": "31955",
+        "Allowances": "36905"
+    },
+    {
+        "Income": "373000",
+        "Investment": "32000",
+        "Allowances": "36950"
+    },
+    {
+        "Income": "374000",
+        "Investment": "32045",
+        "Allowances": "36995"
+    },
+    {
+        "Income": "375000",
+        "Investment": "32090",
+        "Allowances": "37040"
+    },
+    {
+        "Income": "376000",
+        "Investment": "32135",
+        "Allowances": "37085"
+    },
+    {
+        "Income": "377000",
+        "Investment": "32180",
+        "Allowances": "37130"
+    },
+    {
+        "Income": "378000",
+        "Investment": "32225",
+        "Allowances": "37175"
+    },
+    {
+        "Income": "379000",
+        "Investment": "32270",
+        "Allowances": "37220"
+    },
+    {
+        "Income": "380000",
+        "Investment": "32315",
+        "Allowances": "37265"
+    },
+    {
+        "Income": "381000",
+        "Investment": "32360",
+        "Allowances": "37310"
+    },
+    {
+        "Income": "382000",
+        "Investment": "32405",
+        "Allowances": "37355"
+    },
+    {
+        "Income": "383000",
+        "Investment": "32450",
+        "Allowances": "37400"
+    },
+    {
+        "Income": "384000",
+        "Investment": "32495",
+        "Allowances": "37445"
+    },
+    {
+        "Income": "385000",
+        "Investment": "32540",
+        "Allowances": "37490"
+    },
+    {
+        "Income": "386000",
+        "Investment": "32585",
+        "Allowances": "37535"
+    },
+    {
+        "Income": "387000",
+        "Investment": "32630",
+        "Allowances": "37580"
+    },
+    {
+        "Income": "388000",
+        "Investment": "32675",
+        "Allowances": "37625"
+    },
+    {
+        "Income": "389000",
+        "Investment": "32720",
+        "Allowances": "37670"
+    },
+    {
+        "Income": "390000",
+        "Investment": "32765",
+        "Allowances": "37715"
+    },
+    {
+        "Income": "391000",
+        "Investment": "32810",
+        "Allowances": "37760"
+    },
+    {
+        "Income": "392000",
+        "Investment": "32855",
+        "Allowances": "37805"
+    },
+    {
+        "Income": "393000",
+        "Investment": "32900",
+        "Allowances": "37850"
+    },
+    {
+        "Income": "394000",
+        "Investment": "32945",
+        "Allowances": "37895"
+    },
+    {
+        "Income": "395000",
+        "Investment": "32990",
+        "Allowances": "37940"
+    },
+    {
+        "Income": "396000",
+        "Investment": "33035",
+        "Allowances": "37985"
+    },
+    {
+        "Income": "397000",
+        "Investment": "33080",
+        "Allowances": "38030"
+    },
+    {
+        "Income": "398000",
+        "Investment": "33125",
+        "Allowances": "38075"
+    },
+    {
+        "Income": "399000",
+        "Investment": "33170",
+        "Allowances": "38120"
+    },
+    {
+        "Income": "400000",
+        "Investment": "33215",
+        "Allowances": "38165"
+    },
+    {
+        "Income": "401000",
+        "Investment": "33260",
+        "Allowances": "38210"
+    },
+    {
+        "Income": "402000",
+        "Investment": "33305",
+        "Allowances": "38255"
+    },
+    {
+        "Income": "403000",
+        "Investment": "33350",
+        "Allowances": "38300"
+    },
+    {
+        "Income": "404000",
+        "Investment": "33395",
+        "Allowances": "38345"
+    },
+    {
+        "Income": "405000",
+        "Investment": "33440",
+        "Allowances": "38390"
+    },
+    {
+        "Income": "406000",
+        "Investment": "33485",
+        "Allowances": "38435"
+    },
+    {
+        "Income": "407000",
+        "Investment": "33530",
+        "Allowances": "38480"
+    },
+    {
+        "Income": "408000",
+        "Investment": "33575",
+        "Allowances": "38525"
+    },
+    {
+        "Income": "409000",
+        "Investment": "33620",
+        "Allowances": "38570"
+    },
+    {
+        "Income": "410000",
+        "Investment": "33665",
+        "Allowances": "38615"
+    },
+    {
+        "Income": "411000",
+        "Investment": "33710",
+        "Allowances": "38660"
+    },
+    {
+        "Income": "412000",
+        "Investment": "33755",
+        "Allowances": "38705"
+    },
+    {
+        "Income": "413000",
+        "Investment": "33800",
+        "Allowances": "38750"
+    },
+    {
+        "Income": "414000",
+        "Investment": "33845",
+        "Allowances": "38795"
+    },
+    {
+        "Income": "415000",
+        "Investment": "33890",
+        "Allowances": "38840"
+    },
+    {
+        "Income": "416000",
+        "Investment": "33935",
+        "Allowances": "38885"
+    },
+    {
+        "Income": "417000",
+        "Investment": "33980",
+        "Allowances": "38930"
+    },
+    {
+        "Income": "418000",
+        "Investment": "34025",
+        "Allowances": "38975"
+    },
+    {
+        "Income": "419000",
+        "Investment": "34070",
+        "Allowances": "39020"
+    },
+    {
+        "Income": "420000",
+        "Investment": "34115",
+        "Allowances": "39065"
+    },
+    {
+        "Income": "421000",
+        "Investment": "34160",
+        "Allowances": "39110"
+    },
+    {
+        "Income": "422000",
+        "Investment": "34205",
+        "Allowances": "39155"
+    },
+    {
+        "Income": "423000",
+        "Investment": "34250",
+        "Allowances": "39200"
+    },
+    {
+        "Income": "424000",
+        "Investment": "34295",
+        "Allowances": "39245"
+    },
+    {
+        "Income": "425000",
+        "Investment": "34340",
+        "Allowances": "39290"
+    },
+    {
+        "Income": "426000",
+        "Investment": "34385",
+        "Allowances": "39335"
+    },
+    {
+        "Income": "427000",
+        "Investment": "34430",
+        "Allowances": "39380"
+    },
+    {
+        "Income": "428000",
+        "Investment": "34475",
+        "Allowances": "39425"
+    },
+    {
+        "Income": "429000",
+        "Investment": "34520",
+        "Allowances": "39470"
+    },
+    {
+        "Income": "430000",
+        "Investment": "34565",
+        "Allowances": "39515"
+    },
+    {
+        "Income": "431000",
+        "Investment": "34610",
+        "Allowances": "39560"
+    },
+    {
+        "Income": "432000",
+        "Investment": "34655",
+        "Allowances": "39605"
+    },
+    {
+        "Income": "433000",
+        "Investment": "34700",
+        "Allowances": "39650"
+    },
+    {
+        "Income": "434000",
+        "Investment": "34745",
+        "Allowances": "39695"
+    },
+    {
+        "Income": "435000",
+        "Investment": "34790",
+        "Allowances": "39740"
+    },
+    {
+        "Income": "436000",
+        "Investment": "34835",
+        "Allowances": "39785"
+    },
+    {
+        "Income": "437000",
+        "Investment": "34880",
+        "Allowances": "39830"
+    },
+    {
+        "Income": "438000",
+        "Investment": "34925",
+        "Allowances": "39875"
+    },
+    {
+        "Income": "439000",
+        "Investment": "34970",
+        "Allowances": "39920"
+    },
+    {
+        "Income": "440000",
+        "Investment": "35015",
+        "Allowances": "39965"
+    },
+    {
+        "Income": "441000",
+        "Investment": "35060",
+        "Allowances": "40010"
+    },
+    {
+        "Income": "442000",
+        "Investment": "35105",
+        "Allowances": "40055"
+    },
+    {
+        "Income": "443000",
+        "Investment": "35150",
+        "Allowances": "40100"
+    },
+    {
+        "Income": "444000",
+        "Investment": "35195",
+        "Allowances": "40145"
+    },
+    {
+        "Income": "445000",
+        "Investment": "35240",
+        "Allowances": "40190"
+    },
+    {
+        "Income": "446000",
+        "Investment": "35285",
+        "Allowances": "40235"
+    },
+    {
+        "Income": "447000",
+        "Investment": "35330",
+        "Allowances": "40280"
+    },
+    {
+        "Income": "448000",
+        "Investment": "35375",
+        "Allowances": "40325"
+    },
+    {
+        "Income": "449000",
+        "Investment": "35420",
+        "Allowances": "40370"
+    },
+    {
+        "Income": "450000",
+        "Investment": "35465",
+        "Allowances": "40415"
+    },
+    {
+        "Income": "451000",
+        "Investment": "35510",
+        "Allowances": "40460"
+    },
+    {
+        "Income": "452000",
+        "Investment": "35555",
+        "Allowances": "40505"
+    },
+    {
+        "Income": "453000",
+        "Investment": "35600",
+        "Allowances": "40550"
+    },
+    {
+        "Income": "454000",
+        "Investment": "35645",
+        "Allowances": "40595"
+    },
+    {
+        "Income": "455000",
+        "Investment": "35690",
+        "Allowances": "40640"
+    },
+    {
+        "Income": "456000",
+        "Investment": "35735",
+        "Allowances": "40685"
+    },
+    {
+        "Income": "457000",
+        "Investment": "35780",
+        "Allowances": "40730"
+    },
+    {
+        "Income": "458000",
+        "Investment": "35825",
+        "Allowances": "40775"
+    },
+    {
+        "Income": "459000",
+        "Investment": "35870",
+        "Allowances": "40820"
+    },
+    {
+        "Income": "460000",
+        "Investment": "35915",
+        "Allowances": "40865"
+    },
+    {
+        "Income": "461000",
+        "Investment": "35960",
+        "Allowances": "40910"
+    },
+    {
+        "Income": "462000",
+        "Investment": "36005",
+        "Allowances": "40955"
+    },
+    {
+        "Income": "463000",
+        "Investment": "36050",
+        "Allowances": "41000"
+    },
+    {
+        "Income": "464000",
+        "Investment": "36095",
+        "Allowances": "41045"
+    },
+    {
+        "Income": "465000",
+        "Investment": "36140",
+        "Allowances": "41090"
+    },
+    {
+        "Income": "466000",
+        "Investment": "36185",
+        "Allowances": "41135"
+    },
+    {
+        "Income": "467000",
+        "Investment": "36230",
+        "Allowances": "41180"
+    },
+    {
+        "Income": "468000",
+        "Investment": "36275",
+        "Allowances": "41225"
+    },
+    {
+        "Income": "469000",
+        "Investment": "36320",
+        "Allowances": "41270"
+    },
+    {
+        "Income": "470000",
+        "Investment": "36365",
+        "Allowances": "41315"
+    },
+    {
+        "Income": "471000",
+        "Investment": "36410",
+        "Allowances": "41360"
+    },
+    {
+        "Income": "472000",
+        "Investment": "36455",
+        "Allowances": "41405"
+    },
+    {
+        "Income": "473000",
+        "Investment": "36500",
+        "Allowances": "41450"
+    },
+    {
+        "Income": "474000",
+        "Investment": "36545",
+        "Allowances": "41495"
+    },
+    {
+        "Income": "475000",
+        "Investment": "36590",
+        "Allowances": "41540"
+    },
+    {
+        "Income": "476000",
+        "Investment": "36635",
+        "Allowances": "41585"
+    },
+    {
+        "Income": "477000",
+        "Investment": "36680",
+        "Allowances": "41630"
+    },
+    {
+        "Income": "478000",
+        "Investment": "36725",
+        "Allowances": "41675"
+    },
+    {
+        "Income": "479000",
+        "Investment": "36770",
+        "Allowances": "41720"
+    },
+    {
+        "Income": "480000",
+        "Investment": "36815",
+        "Allowances": "41765"
+    },
+    {
+        "Income": "481000",
+        "Investment": "36860",
+        "Allowances": "41810"
+    },
+    {
+        "Income": "482000",
+        "Investment": "36905",
+        "Allowances": "41855"
+    },
+    {
+        "Income": "483000",
+        "Investment": "36950",
+        "Allowances": "41900"
+    },
+    {
+        "Income": "484000",
+        "Investment": "36995",
+        "Allowances": "41945"
+    },
+    {
+        "Income": "485000",
+        "Investment": "37040",
+        "Allowances": "41990"
+    },
+    {
+        "Income": "486000",
+        "Investment": "37085",
+        "Allowances": "42035"
+    },
+    {
+        "Income": "487000",
+        "Investment": "37130",
+        "Allowances": "42080"
+    },
+    {
+        "Income": "488000",
+        "Investment": "37175",
+        "Allowances": "42125"
+    },
+    {
+        "Income": "489000",
+        "Investment": "37220",
+        "Allowances": "42170"
+    },
+    {
+        "Income": "490000",
+        "Investment": "37265",
+        "Allowances": "42215"
+    },
+    {
+        "Income": "491000",
+        "Investment": "37310",
+        "Allowances": "42260"
+    },
+    {
+        "Income": "492000",
+        "Investment": "37355",
+        "Allowances": "42305"
+    },
+    {
+        "Income": "493000",
+        "Investment": "37400",
+        "Allowances": "42350"
+    },
+    {
+        "Income": "494000",
+        "Investment": "37445",
+        "Allowances": "42395"
+    },
+    {
+        "Income": "495000",
+        "Investment": "37490",
+        "Allowances": "42440"
+    },
+    {
+        "Income": "496000",
+        "Investment": "37535",
+        "Allowances": "42485"
+    },
+    {
+        "Income": "497000",
+        "Investment": "37580",
+        "Allowances": "42530"
+    },
+    {
+        "Income": "498000",
+        "Investment": "37625",
+        "Allowances": "42575"
+    },
+    {
+        "Income": "499000",
+        "Investment": "37670",
+        "Allowances": "42620"
+    },
+    {
+        "Income": "500000",
+        "Investment": "37715",
+        "Allowances": "42665"
+    },
+    {
+        "Income": "501000",
+        "Investment": "37760",
+        "Allowances": "42710"
+    },
+    {
+        "Income": "502000",
+        "Investment": "37805",
+        "Allowances": "42755"
+    },
+    {
+        "Income": "503000",
+        "Investment": "37850",
+        "Allowances": "42800"
+    },
+    {
+        "Income": "504000",
+        "Investment": "37895",
+        "Allowances": "42845"
+    },
+    {
+        "Income": "505000",
+        "Investment": "37940",
+        "Allowances": "42890"
+    },
+    {
+        "Income": "506000",
+        "Investment": "37985",
+        "Allowances": "42935"
+    },
+    {
+        "Income": "507000",
+        "Investment": "38030",
+        "Allowances": "42980"
+    },
+    {
+        "Income": "508000",
+        "Investment": "38075",
+        "Allowances": "43025"
+    },
+    {
+        "Income": "509000",
+        "Investment": "38120",
+        "Allowances": "43070"
+    },
+    {
+        "Income": "510000",
+        "Investment": "38165",
+        "Allowances": "43115"
+    },
+    {
+        "Income": "511000",
+        "Investment": "38210",
+        "Allowances": "43160"
+    },
+    {
+        "Income": "512000",
+        "Investment": "38255",
+        "Allowances": "43205"
+    },
+    {
+        "Income": "513000",
+        "Investment": "38300",
+        "Allowances": "43250"
+    },
+    {
+        "Income": "514000",
+        "Investment": "38345",
+        "Allowances": "43295"
+    },
+    {
+        "Income": "515000",
+        "Investment": "38390",
+        "Allowances": "43340"
+    },
+    {
+        "Income": "516000",
+        "Investment": "38435",
+        "Allowances": "43385"
+    },
+    {
+        "Income": "517000",
+        "Investment": "38480",
+        "Allowances": "43430"
+    },
+    {
+        "Income": "518000",
+        "Investment": "38525",
+        "Allowances": "43475"
+    },
+    {
+        "Income": "519000",
+        "Investment": "38570",
+        "Allowances": "43520"
+    },
+    {
+        "Income": "520000",
+        "Investment": "38615",
+        "Allowances": "43565"
+    },
+    {
+        "Income": "521000",
+        "Investment": "38660",
+        "Allowances": "43610"
+    },
+    {
+        "Income": "522000",
+        "Investment": "38705",
+        "Allowances": "43655"
+    },
+    {
+        "Income": "523000",
+        "Investment": "38750",
+        "Allowances": "43700"
+    },
+    {
+        "Income": "524000",
+        "Investment": "38795",
+        "Allowances": "43745"
+    },
+    {
+        "Income": "525000",
+        "Investment": "38840",
+        "Allowances": "43790"
+    },
+    {
+        "Income": "526000",
+        "Investment": "38885",
+        "Allowances": "43835"
+    },
+    {
+        "Income": "527000",
+        "Investment": "38930",
+        "Allowances": "43880"
+    },
+    {
+        "Income": "528000",
+        "Investment": "38975",
+        "Allowances": "43925"
+    },
+    {
+        "Income": "529000",
+        "Investment": "39020",
+        "Allowances": "43970"
+    },
+    {
+        "Income": "530000",
+        "Investment": "39065",
+        "Allowances": "44015"
+    },
+    {
+        "Income": "531000",
+        "Investment": "39110",
+        "Allowances": "44060"
+    },
+    {
+        "Income": "532000",
+        "Investment": "39155",
+        "Allowances": "44105"
+    },
+    {
+        "Income": "533000",
+        "Investment": "39200",
+        "Allowances": "44150"
+    },
+    {
+        "Income": "534000",
+        "Investment": "39245",
+        "Allowances": "44195"
+    },
+    {
+        "Income": "535000",
+        "Investment": "39290",
+        "Allowances": "44240"
+    },
+    {
+        "Income": "536000",
+        "Investment": "39335",
+        "Allowances": "44285"
+    },
+    {
+        "Income": "537000",
+        "Investment": "39380",
+        "Allowances": "44330"
+    },
+    {
+        "Income": "538000",
+        "Investment": "39425",
+        "Allowances": "44375"
+    },
+    {
+        "Income": "539000",
+        "Investment": "39470",
+        "Allowances": "44420"
+    },
+    {
+        "Income": "540000",
+        "Investment": "39515",
+        "Allowances": "44465"
+    },
+    {
+        "Income": "541000",
+        "Investment": "39560",
+        "Allowances": "44510"
+    },
+    {
+        "Income": "542000",
+        "Investment": "39605",
+        "Allowances": "44555"
+    },
+    {
+        "Income": "543000",
+        "Investment": "39650",
+        "Allowances": "44600"
+    },
+    {
+        "Income": "544000",
+        "Investment": "39695",
+        "Allowances": "44645"
+    },
+    {
+        "Income": "545000",
+        "Investment": "39740",
+        "Allowances": "44690"
+    },
+    {
+        "Income": "546000",
+        "Investment": "39785",
+        "Allowances": "44735"
+    },
+    {
+        "Income": "547000",
+        "Investment": "39830",
+        "Allowances": "44780"
+    },
+    {
+        "Income": "548000",
+        "Investment": "39875",
+        "Allowances": "44825"
+    },
+    {
+        "Income": "549000",
+        "Investment": "39920",
+        "Allowances": "44870"
+    },
+    {
+        "Income": "550000",
+        "Investment": "39965",
+        "Allowances": "44915"
+    },
+    {
+        "Income": "551000",
+        "Investment": "40010",
+        "Allowances": "44960"
+    },
+    {
+        "Income": "552000",
+        "Investment": "40055",
+        "Allowances": "45005"
+    },
+    {
+        "Income": "553000",
+        "Investment": "40100",
+        "Allowances": "45050"
+    },
+    {
+        "Income": "554000",
+        "Investment": "40145",
+        "Allowances": "45095"
+    },
+    {
+        "Income": "555000",
+        "Investment": "40190",
+        "Allowances": "45140"
+    },
+    {
+        "Income": "556000",
+        "Investment": "40235",
+        "Allowances": "45185"
+    },
+    {
+        "Income": "557000",
+        "Investment": "40280",
+        "Allowances": "45230"
+    },
+    {
+        "Income": "558000",
+        "Investment": "40325",
+        "Allowances": "45275"
+    },
+    {
+        "Income": "559000",
+        "Investment": "40370",
+        "Allowances": "45320"
+    },
+    {
+        "Income": "560000",
+        "Investment": "40415",
+        "Allowances": "45365"
+    },
+    {
+        "Income": "561000",
+        "Investment": "40460",
+        "Allowances": "45410"
+    },
+    {
+        "Income": "562000",
+        "Investment": "40505",
+        "Allowances": "45455"
+    },
+    {
+        "Income": "563000",
+        "Investment": "40550",
+        "Allowances": "45500"
+    },
+    {
+        "Income": "564000",
+        "Investment": "40595",
+        "Allowances": "45545"
+    },
+    {
+        "Income": "565000",
+        "Investment": "40640",
+        "Allowances": "45590"
+    },
+    {
+        "Income": "566000",
+        "Investment": "40685",
+        "Allowances": "45635"
+    },
+    {
+        "Income": "567000",
+        "Investment": "40730",
+        "Allowances": "45680"
+    },
+    {
+        "Income": "568000",
+        "Investment": "40775",
+        "Allowances": "45725"
+    },
+    {
+        "Income": "569000",
+        "Investment": "40820",
+        "Allowances": "45770"
+    },
+    {
+        "Income": "570000",
+        "Investment": "40865",
+        "Allowances": "45815"
+    },
+    {
+        "Income": "571000",
+        "Investment": "40910",
+        "Allowances": "45860"
+    },
+    {
+        "Income": "572000",
+        "Investment": "40955",
+        "Allowances": "45905"
+    },
+    {
+        "Income": "573000",
+        "Investment": "41000",
+        "Allowances": "45950"
+    },
+    {
+        "Income": "574000",
+        "Investment": "41045",
+        "Allowances": "45995"
+    },
+    {
+        "Income": "575000",
+        "Investment": "41090",
+        "Allowances": "46040"
+    },
+    {
+        "Income": "576000",
+        "Investment": "41135",
+        "Allowances": "46085"
+    },
+    {
+        "Income": "577000",
+        "Investment": "41180",
+        "Allowances": "46130"
+    },
+    {
+        "Income": "578000",
+        "Investment": "41225",
+        "Allowances": "46175"
+    },
+    {
+        "Income": "579000",
+        "Investment": "41270",
+        "Allowances": "46220"
+    },
+    {
+        "Income": "580000",
+        "Investment": "41315",
+        "Allowances": "46265"
+    },
+    {
+        "Income": "581000",
+        "Investment": "41360",
+        "Allowances": "46310"
+    },
+    {
+        "Income": "582000",
+        "Investment": "41405",
+        "Allowances": "46355"
+    },
+    {
+        "Income": "583000",
+        "Investment": "41450",
+        "Allowances": "46400"
+    },
+    {
+        "Income": "",
+        "Investment": "",
+        "Allowances": ""
+    }
+]
